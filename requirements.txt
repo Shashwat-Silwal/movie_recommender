@@ -1,15 +1,6 @@
-# Data Processing & Math
+streamlit
+altair
 pandas
 numpy
-scipy
-
-# Machine Learning & Compression
 scikit-learn
-joblib
-
-# User Interface
-streamlit==1.19.0
-altair
-
-# API Support (if using TMDB for posters)
 requests
