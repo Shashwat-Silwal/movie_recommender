@@ -1,0 +1,14 @@
+# Data Processing & Math
+pandas
+numpy
+scipy
+
+# Machine Learning & Compression
+scikit-learn
+joblib
+
+# User Interface
+streamlit
+
+# API Support (if using TMDB for posters)
+requests
